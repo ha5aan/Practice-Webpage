@@ -1,0 +1,144 @@
+.container {
+    /* display: inline-block; */
+    background-color: whitesmoke;
+}
+.brand_name{
+    width: 850px;
+    display: inline-block;
+
+
+
+}
+.toggle{
+    width: 150px;
+    display: inline-block;
+    text-align: center;
+
+}
+.taskbar {
+    height: 50px;
+    display: inline-block;
+    width: 100%;
+}
+.general{
+    display: inline-block;
+    display: inline-block;
+
+}
+.heading{
+    
+    text-align: center;
+    width: 100%;
+}
+.start{
+    color: black;
+    position: absolute;
+    height: 40px;
+    width: 150px;
+    background-color: yellow;    
+    left: 600px;
+    text-align: center;
+    height: 55px;
+    font-size: 20px;
+    margin: 10px;
+    padding-bottom: 15px;
+
+}
+.logo{
+    padding-top: 100px;
+    padding-left: 150px;
+    display: inline-block;
+    margin: 20px;
+padding: 5px;
+}
+.writing{
+    display: inline-block;
+    padding: 5px;
+
+}
+.three{
+    padding: 150px;
+    margin-bottom: 0px;
+}
+.type1{
+    margin-left: 80px;
+    padding: 20px;
+}
+.four{
+    
+    position: absolute;
+    /* text-align: center; */
+    /* display: inline-block; */
+    left: 400px;
+    
+}
+.five{
+    margin: 20px;
+}
+.price{
+    display: inline-block;
+    height: 300px;
+    width: 300px;
+     padding-top: 20px;
+    margin-top: 400px;
+    margin-left: 150px;
+    left: 300px;
+    border: 1px solid black;
+} 
+.price1{
+    display: inline-block;
+    height: 300px;
+    width: 300px;
+     padding-top: 20px;
+   
+    margin-left: 20px;
+    border: 1px solid black;
+    
+} 
+.headingp{
+   background-color: lightgray;
+    text-align: center;
+    margin:-20px;
+    height:30px ;
+    width:300px;
+    margin-left: 0px;
+}
+.specific{
+    text-align: center;
+    font-size: 30px;
+
+
+}
+.details{
+    text-align: center;
+    font-size: 20px;
+    line-height: 30px;
+}
+.button{
+    background-color: yellow;
+    position: absolute;
+    text-align: center;
+    height: 50px;
+    width: 100px;
+    margin-left: 100px;
+    margin-top: 10px;
+
+}
+.contactus{
+    display: inline-block;
+    position:absolute;
+    background-color: lightgray;
+    margin-left: 100px;
+    text-align: end;
+    line-height: 0px;
+    padding-right: 20px;
+}
+.privacy1{
+    display: inline-block;
+    margin-left: 900px;
+
+}
+.privacy{
+display: inline-block;
+margin-left: 30px;
+}
